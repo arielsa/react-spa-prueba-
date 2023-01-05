@@ -6,7 +6,7 @@ import Menu from './Menu';
 
 function App() {
   return (
-    <div class="container">
+    <div className="container">
       <Menu />
       hola
     </div>
