@@ -5,7 +5,7 @@ export default class Menu extends React.Component{
     render(){
         return(
             <div calssName="row" >
-                <div className="col-12 d-flex align-items-center">
+                <div className="col-12 d-flex align-items-center bg-light fixed-top">
                     
                     <h1>Artio</h1>
                     <span className="mx-3" >inicio</span>
